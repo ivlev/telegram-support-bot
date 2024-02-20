@@ -6,17 +6,17 @@
       "python",
       "proxy"
     ],
-    "website": "https://github.com/ohld/telegram-support-bot",
-    "repository": "https://github.com/ohld/telegram-support-bot",
-    "success_url": "https://github.com/ohld/telegram-support-bot",
+    "website": "https://github.com/ivlev/telegram-support-bot.git",
+    "repository": "https://github.com/ivlev/telegram-support-bot.git",
+    "success_url": "https://github.com/ivlev/telegram-support-bot.git",
     "env": {
       "HEROKU_APP_NAME": {
-        "description": "The name of your Heroku app. Yes, again. Just copy-paste it!"
+        "description": "Asomatic"
       },
-      "TELEGRAM_TOKEN": {
-        "description": "Your bot's token. Visit https://t.me/BotFather"
+      "TELEGRAM_TOKEN": {6875502027:AAGeRQzNxQ0_SnSQJJVL_KMLpcdD3T56ya4
+        "description": "Your bot's token"
       },
-      "TELEGRAM_SUPPORT_CHAT_ID": {
+      "TELEGRAM_SUPPORT_CHAT_ID": {34452946
         "description": "Telegram chat_id where the bot will forward all incoming messages. If you want to know your chat_id - add this bot https://t.me/ShowJsonBot to your chat."
       }
     }
